@@ -1,19 +1,19 @@
 {
-  "name": "wethmodule",
+  "name": "@sponsorcoin/spcoin-weth-module",
   "version": "1.0.0",
   "description": "Wrap and Unwrap Eth",
-  "main": "weth9ABI.js",
+  "main": "wethMethods.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sponsorCoinAdmin/wethModule.git"
+    "url": "git+ssh://github.com:sponsorCoinAdmin/spcoin-weth-module.git"
   },
   "author": "Robert Lanson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sponsorCoinAdmin/wethModule/issues"
+    "url": "https://github.com/sponsorCoinAdmin/spcoin-weth-module/issues"
   },
-  "homepage": "https://github.com/sponsorCoinAdmin/wethModule#readme"
+  "homepage": "https://github.com/sponsorCoinAdmin/spcoin-weth-module#readme"
 }

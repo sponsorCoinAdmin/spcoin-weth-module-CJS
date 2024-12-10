@@ -1,1 +1,1 @@
-# wethModule
+# spcoin-weth-module
