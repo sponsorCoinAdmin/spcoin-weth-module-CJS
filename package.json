@@ -1,6 +1,6 @@
 {
-  "name": "@sponsorcoin/spcoin-weth-module",
-  "version": "1.0.1",
+  "name": "@sponsorcoin/spcoin-weth-module-cjs",
+  "version": "1.0.0",
   "description": "Wrap and Unwrap Eth",
   "main": "wethMethods.js",
   "scripts": {
