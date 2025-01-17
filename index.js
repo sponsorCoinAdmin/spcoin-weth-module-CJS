@@ -1,4 +1,3 @@
-// const ethers = require('ethers');
 const { weth9ABI } = require('./weth9ABI.js')
 const ETHEREUM = 1;
 const POLYGON = 137;
